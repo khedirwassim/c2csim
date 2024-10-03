@@ -1,4 +1,4 @@
-Project Setup Guide
+Project Setup Guide </br>
 ⚠️ Warning: Absolute Paths
 There are some absolute paths hardcoded in the project that you need to adjust:
 
