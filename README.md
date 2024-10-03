@@ -3,6 +3,7 @@ Project Setup Guide
 There are some absolute paths hardcoded in the project that you need to adjust:
 
 In Main.qml: 
+
 source = "file://" + "/your/path/to/project/images/generated/car_modified_" + modelData.id + ".svg"
 
 In the applyColorToSVG() function of SumoInterface.cpp:
